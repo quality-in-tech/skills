@@ -1,6 +1,8 @@
 # QInT Skills ⚡
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-quality--int.com-blue?style=flat&logo=googlechrome&logoColor=white)](https://quality-int.com/)
+[![Book a Call](https://img.shields.io/badge/Book%20a%20Call-Calendar-success?style=flat&logo=googlecalendar&logoColor=white)](https://calendar.app.google/76JmSruMAY151qB59)
 [![Organization](https://img.shields.io/badge/Maintained%20by-Quality%20Insight%20Tech-0052CC.svg)](https://github.com/quality-in-tech)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/quality-in-tech/skills/pulls)
 
@@ -79,8 +81,10 @@ At **Quality Insight Tech (QInT)**, we partner with startups and enterprise team
 * **Architecture & Codebase Audits:** Evaluating code quality, security boundaries, and scalability bottlenecks to future-proof your systems.
 
 📫 **Let’s build something great together:**
-* **GitHub:** [@quality-in-tech](https://github.com/quality-in-tech)
-* **Website / Inquiries:** Reach out to us via GitHub issues or contact our team directly for consulting and partnership opportunities.
+* 🌐 **Website:** [quality-int.com](https://quality-int.com/)
+* 📅 **Schedule a Call:** [Book a Discovery Call](https://calendar.app.google/76JmSruMAY151qB59)
+* 🐙 **GitHub:** [@quality-in-tech](https://github.com/quality-in-tech)
+* 💬 **Consulting & Inquiries:** Connect with our team to discuss custom engineering, codebase audits, or AI agent workflow implementations.
 
 ---
 
