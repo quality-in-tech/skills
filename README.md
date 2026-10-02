@@ -27,6 +27,8 @@ This repository contains our curated, battle-tested skills designed for agentic 
 | :--- | :--- | :--- |
 | [**`clean-architecture`**](./clean-architecture/SKILL.md) | Enforce DRY & SOLID principles | SRP, OCP, LSP, ISP, DIP compliance; proactive refactoring of duplicated logic. |
 | [**`frontend-blueprint`**](./frontend-blueprint/SKILL.md) | Modern frontend scaffolding & quality | React + Vite + Tailwind CSS v4, strict Atomic Design hierarchy, Husky pre-commit hooks. |
+| [**`tdd-first`**](./tdd-first/SKILL.md) | Test-Driven Development (TDD) enforcer | Strict Red-Green-Refactor cycle, failing test required before implementation, boundary edge-case coverage. |
+| [**`api-contract-first`**](./api-contract-first/SKILL.md) | Type-safe API contracts & zero drift | Centralized schema single source of truth (Zod/OpenAPI/tRPC), eliminates untyped `any` and unvalidated endpoints. |
 
 ---
 
